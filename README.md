@@ -1,4 +1,4 @@
-# typora-
+# <font size=5>Typora<font size=5>-
 这是一个破解typora的仓库
 转载一下网站而已
 
